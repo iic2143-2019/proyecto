@@ -2,6 +2,7 @@
 
 ## Tabla de contenidos
 - [Descripción](#descripción)
+- [Ayudantes](#ayudantes)
 - [Foro](#foro)
   - [Etiquetas](#etiquetas)
   - [Procedimiento](#procedimiento)
@@ -12,6 +13,23 @@
 
 En este repositorio podrán encontrar:
 * los enunciados de las entregas del proyecto
+
+# Ayudantes
+Nombre               | GitHub           | Email
+-------------------- | ---------------- | ----------------
+Vicente Aguilera		 | vjaguilera       | vjaguilera@uc.cl
+Juan Aguillón	  	   | jjaguillon       | jjaguillon@uc.cl
+Jorge Becerra		     | jorgebdelat      | jabecerra@uc.cl
+Tomás Burotto		     | tburotto         | tfburotto@uc.cl
+Bastián Ceppi        | bceppi           | beceppi@uc.cl
+Catalina Herrera		 | cataherrera      | cfherrera@uc.cl
+Cristobal Poblete		 | cmpoblete        | cmpoblete@uc.cl
+Moisés Retamal		   | meretamal        | meretamal@uc.cl
+Valentina Rojas		   | valerojasm       | varojasm@uc.cl
+Jerónimo Salazar     | jerosalazar      | jcsalazar@uc.cl
+Gregory Schuit		   | gregschuit       | gkschuit@uc.cl
+Tomás Tapia		       | ttapia           | tetapia@uc.cl
+
 
 # Foro
 
