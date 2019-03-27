@@ -9,6 +9,8 @@
 
 #### Development setup
 
+* **Change 'example' APP HOME on Dockerfile & docker-compose**
+
 * Add file `.env` to root folder
 * `docker-compose build`
 * `docker-compose run web bundle install`
