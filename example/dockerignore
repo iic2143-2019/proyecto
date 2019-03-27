@@ -1,0 +1,7 @@
+.git*
+/doc/
+log/*
+tmp/*
+Dockerfile
+README.rdoc
+*.DS_Store
