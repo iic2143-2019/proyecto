@@ -12,7 +12,9 @@
 # Descripción
 
 En este repositorio podrán encontrar:
-* los enunciados de las entregas del proyecto
+* Los enunciados de las entregas.
+* Una carpeta con archivos de ejemplo para el _set up_ del proyecto.
+* Una [wiki](https://github.com/iic2143-2019/proyecto/wiki) con información útil para el proyecto.
 
 # Ayudantes
 Nombre               | GitHub           | Email
