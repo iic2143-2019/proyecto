@@ -1,7 +1,7 @@
 # IIC2143 - Ingeniería de Software
 
 ## Horarios presentaciones
-![horarios](Horarios_grupos.png)
+![horarios](Horarios_grupos_new.png)
 
 ## Tabla de contenidos
 - [Descripción](#Descripción)
