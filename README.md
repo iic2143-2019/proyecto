@@ -4,11 +4,11 @@
 ![horarios](Horarios_grupos.png)
 
 ## Tabla de contenidos
-- [Descripción](#descripción)
-- [Ayudantes](#ayudantes)
-- [Foro](#foro)
-  - [Etiquetas](#etiquetas)
-  - [Procedimiento](#procedimiento)
+- [Descripción](#Descripción)
+- [Ayudantes](#Ayudantes)
+- [Foro](#Foro)
+  - [Etiquetas](#Etiquetas)
+  - [Procedimiento](#Procedimiento)
 
 ---
 
